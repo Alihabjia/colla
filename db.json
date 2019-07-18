@@ -2,7 +2,7 @@
   "data":
         [
           {
-            "id":1,
+            "id":"1",
             "nom":"Habjia",
             "prenom":"Ali",
             "email":"Ali.habjia@gmail.com",
@@ -11,7 +11,7 @@
             "image":"https://www.bhsf.co.uk/images/home/corporate.png"
           },
           {
-            "id":2,
+            "id":"2",
             "nom":"Bouhadou",
             "prenom":"Aymane",
             "email":"aymane.bouhadou@gmail.com",
@@ -20,7 +20,7 @@
             "image":"https://media.monolithicpower.com/wysiwyg/employee-img1.png"
            },
           {
-            "id":3,
+            "id":"3",
             "nom":"Denzy",
             "prenom":"Kenza",
             "email":"denzy.kenza@gmail.com",
@@ -29,13 +29,31 @@
             "image":"https://media.monolithicpower.com/wysiwyg/employee-img2.png"
           },
           {
-            "id":4,
+            "id":"4",
             "nom":"Fouali",
             "prenom":"Mouad",
             "email":"fouali.mouad@gmail.com",
             "telephone":"0661222324",
             "role":"Developpeur",
             "image":"https://media.monolithicpower.com/wysiwyg/employee-img5.png"
+          },
+          {
+            "id":"5",
+            "nom":"Ouzeren",
+            "prenom":"Yassine",
+            "email":"ouzeren.yassine@gmail.com",
+            "telephone":"0661400444",
+            "role":"Developpeur",
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img4.png"
+          },
+          {
+            "id":"6",
+            "nom":"Azagrouze",
+            "prenom":"Hatim",
+            "email":"azagrouze.hatim@gmail.com",
+            "telephone":"0669000102",
+            "role":"Developpeur",
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img3.png"
           }
             ]
  }
