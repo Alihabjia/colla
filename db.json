@@ -27,6 +27,15 @@
             "telephone":"0661010203",
             "role":"Front end",
             "image":"https://media.monolithicpower.com/wysiwyg/employee-img2.png"
+          },
+          {
+            "id":4,
+            "nom":"Fouali",
+            "prenom":"Mouad",
+            "email":"fouali.mouad@gmail.com",
+            "telephone":"0661222324",
+            "role":"Developpeur",
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img5.png"
           }
             ]
  }
