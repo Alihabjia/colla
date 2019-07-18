@@ -1,0 +1,32 @@
+{
+  "data":
+        [
+          {
+            "id":1,
+            "nom":"Habjia",
+            "prenom":"Ali",
+            "email":"Ali.habjia@gmail.com",
+            "telephone":"0669203659",
+            "role":"Front end",
+            "image":"https://www.bhsf.co.uk/images/home/corporate.png"
+          },
+          {
+            "id":2,
+            "nom":"Bouhadou",
+            "prenom":"Aymane",
+            "email":"aymane.bouhadou@gmail.com",
+            "telephone":"0633445566",
+            "role":"Developpeur",
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img1.png"
+           },
+          {
+            "id":3,
+            "nom":"Denzy",
+            "prenom":"Kenza",
+            "email":"denzy.kenza@gmail.com",
+            "telephone":"0661010203",
+            "role":"Front end",
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img2.png"
+          }
+            ]
+ }
