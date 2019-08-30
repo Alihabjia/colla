@@ -5,55 +5,81 @@
             "id":"1",
             "nom":"Habjia",
             "prenom":"Ali",
-            "email":"Ali.habjia@gmail.com",
+            "email":"a.habjia@pulse.digital",
             "telephone":"0669203659",
             "role":"Front end",
-            "image":"https://www.bhsf.co.uk/images/home/corporate.png"
+            "image":"https://www.bhsf.co.uk/images/home/corporate.png",
+            "chef":"non"
           },
           {
             "id":"2",
             "nom":"Bouhadou",
             "prenom":"Aymane",
-            "email":"aymane.bouhadou@gmail.com",
-            "telephone":"0633445566",
+            "email":"a.bouhadou@pulse.digital",
+            "telephone":"0661445566",
             "role":"Developpeur",
-            "image":"https://media.monolithicpower.com/wysiwyg/employee-img1.png"
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img1.png",
+            "chef":"oui"
            },
           {
             "id":"3",
             "nom":"Denzy",
             "prenom":"Kenza",
-            "email":"denzy.kenza@gmail.com",
+            "email":"k.denzy@pulse.digital",
             "telephone":"0661010203",
             "role":"Front end",
-            "image":"https://media.monolithicpower.com/wysiwyg/employee-img2.png"
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img2.png",
+            "chef":"oui"
           },
           {
             "id":"4",
             "nom":"Fouali",
             "prenom":"Mouad",
-            "email":"fouali.mouad@gmail.com",
+            "email":"m.fouali@pulse.digital",
             "telephone":"0661222324",
             "role":"Developpeur",
-            "image":"https://media.monolithicpower.com/wysiwyg/employee-img5.png"
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img5.png",
+            "chef":"non"
           },
           {
             "id":"5",
             "nom":"Ouzeren",
             "prenom":"Yassine",
-            "email":"ouzeren.yassine@gmail.com",
+            "email":"y.ouzeren@@pulse.digital",
             "telephone":"0661400444",
             "role":"Developpeur",
-            "image":"https://media.monolithicpower.com/wysiwyg/employee-img4.png"
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img4.png",
+            "chef":"oui"
           },
           {
             "id":"6",
             "nom":"Azagrouze",
             "prenom":"Hatim",
-            "email":"azagrouze.hatim@gmail.com",
+            "email":"h.azagrouze@@pulse.digital",
             "telephone":"0669000102",
             "role":"Developpeur",
-            "image":"https://media.monolithicpower.com/wysiwyg/employee-img3.png"
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img3.png",
+            "chef":"non"
+          },
+          {
+            "id":"7",
+            "nom":"Trabi",
+            "prenom":"Med Amine",
+            "email":"m.trabi@pulse.digital",
+            "telephone":"0660305088",
+            "role":"Developpeur",
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img6.png",
+            "chef":"non"
+          },
+          {
+            "id":"8",
+            "nom":"Laarej",
+            "prenom":"Al Mehdi",
+            "email":"m.laarej@pulse.digital",
+            "telephone":"0661633520",
+            "role":"Developpeur",
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img7.png",
+            "chef":"non"
           }
             ]
  }
