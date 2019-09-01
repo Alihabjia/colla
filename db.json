@@ -8,12 +8,9 @@
             "email":"a.habjia@pulse.digital",
             "telephone":"0669203659",
             "role":"Front-end",
-            "technologies":
-              [{
-                "technology1":"https://img.icons8.com/ios-filled/344/javascript-logo.png",
-                "technology2":"https://img.icons8.com/ios-filled/344/css.png",
-                "technology3":"https://img.icons8.com/ios/344/react-native.png"
-              }],
+            "technology1":"https://img.icons8.com/ios-filled/344/javascript-logo.png",
+            "technology2":"https://img.icons8.com/ios-filled/344/css.png",
+            "technology3":"https://img.icons8.com/ios/344/react-native.png",
             "image":"https://www.bhsf.co.uk/images/home/corporate.png",
             "chef":"non",
             "projet":"Gestion des projets",
@@ -31,12 +28,9 @@
             "email":"a.bouhadou@pulse.digital",
             "telephone":"0661445566",
             "role":"Back-end",
-            "technologies":
-              [{
-                "technology1":"https://img.icons8.com/material/344/php.png",
-                "technology2":"https://img.icons8.com/windows/344/laravel.png",
-                "technology3":""
-              }],
+            "technology1":"https://img.icons8.com/material/344/php.png",
+            "technology2":"https://img.icons8.com/windows/344/laravel.png",
+            "technology3":"",
             "image":"https://media.monolithicpower.com/wysiwyg/employee-img1.png",
             "chef":"oui",
             "projet":"Gestion des projets",
